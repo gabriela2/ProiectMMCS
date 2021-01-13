@@ -44,7 +44,9 @@ class Set:
     def playTiebreak(self):
         while True:
             print("tiebreak server: ", self.tiebreakPointsPlayer1," - ",self.tiebreakPointsPlayer2,' tiebreak returner')
-
+            if(self.tiebreakPointsPlayer1 > 20):
+                self.tiebreakPointsPlayer1 = 0
+                self.tiebreakPointsPlayer1 = 0
             if self.tiebreakPointsPlayer1 >= self.tiebreakPoints:
                 if self.tiebreakPointsPlayer1 - self.tiebreakPointsPlayer2 >= 2:
                     newGame = Game(self.tiebreakPointsPlayer1, self.tiebreakPointsPlayer2, True)

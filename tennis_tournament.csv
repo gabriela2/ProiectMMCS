@@ -129,23 +129,406 @@ Caroline,Garcia,Franta,43
 Kirsten,Flipkens,Belgia,86
 Ashleigh,Barty,Australia,1
 Barbora,Krejcikova,Cehia,65
-Donna,Vekic,Croatia,32
-Ekaterina,Alexandrova,Rusia,33
-Madison,Keys,SUA,16
+Viktoria,Kuzmova,Slovacia,97
+Jasmine,Paolini,Italia,96
+Katarzyna,Kawa,Polonia,113
 Polona,Hercog,Slovenia,49
 Iga,Swiatek,Polonia,17
 Cori,Gauff,SUA,48
-Petra,Kvitova,Cehia,8
+Caty,McNally,SUA,121
 Jil Belen,Teichmann,Elvetia,57
-Angelique,Kerber,Germania,25
+Kaja,Juvan,Slovenia,104
 Magda,Linette,Polonia,40
 Kiki,Bertens,Olanda,9
-Patricia Maria,Tig,Romania,56
+Nao,Hibino,Japonia,73
 Jennifer,Brady,SUA,24
 Saisai,Zheng,China,41
 Sofia,Kenin,SUA,4
 Anna,Blinkova,Rusia,61
+Dayana,Yastremska,Ucraina,29
+Kaia,Kanepi,Estonia,93
+Stefanie,Voegele,Elvetia,116
+Danka,Kovinic,Muntenegru,77
+Elise,Mertens,Belgia,20
+Danielle Rose,Collins,SUA,45
+Vitalia,Diatchenko,Rusia,124
+Shelby,Rogers,SUA,60
+Yulia,Putintseva,Kazakhstan,28
+Barbora,Strycova,Cehia,37
+Belinda,Bencic,Elvetia,12
+Alize,Cornet,Franta,53
+Marketa,Vondrousova,Cehia,21
+Jelena,Ostapenko,Letonia,44
+Simona,Halep,Romania,2
+Sara,Sorribes Tormo,Spania,66
+Ann,Li,SUA,98
+Qiang,Wang,China,34
+Garbine,Muguruza,Spania,15
+Kristina,Mladenovic,Franta,50
+Petra,Martic,Croatia,18
+Madison,Brengle,SUA,82
+Bianca Vanessa,Andreescu,Canada,7
+Heather,Watson,Regatul Unit,58
+Alison,Riske,SUA,26
+Aliaksandra,Sasnovich,Belarus,90
+Aryna,Sabalenka,Belarus,10
+Rebecca,Peterson,Suedia,55
+Kateryna,Kozlova,Ucraina,106
+Tamara,Zidansek,Slovenia,87
+Tamara,Korpatsch,Germania,126
+Bernarda,Pera,SUA,62
+Marta,Kostyuk,Ucraina,99
+Varvara,Gracheva,Rusia,94
+Timea,Babos,Ungaria,115
+Irina,Begu,Romania,78
+Greetje,Minnen,Belgia,110
+Misaki,Doi,Japonia,83
+Karolina,Pliskova,Cehia,6
+Katerina,Siniakova,Cehia,59
+Andrea,Petkovic,Germania,102
+Lin,Zhu,China,91
+Katarina,Zavatska,Ucraina,118
+Anastasija,Sevastova,Letonia,54
+Maria,Sakkari,Grecia,22
+Caroline,Garcia,Franta,43
+Ashleigh,Barty,Australia,1
+Jasmine,Paolini,Italia,96
+Katarzyna,Kawa,Polonia,113
+Cori,Gauff,SUA,48
+Jil Belen,Teichmann,Elvetia,57
+Kaja,Juvan,Slovenia,104
+Nao,Hibino,Japonia,73
+Saisai,Zheng,China,41
+Anna,Blinkova,Rusia,61
+Kaia,Kanepi,Estonia,93
+Danka,Kovinic,Muntenegru,77
+Elise,Mertens,Belgia,20
+Shelby,Rogers,SUA,60
+Yulia,Putintseva,Kazakhstan,28
+Belinda,Bencic,Elvetia,12
+Jelena,Ostapenko,Letonia,44
+Sara,Sorribes Tormo,Spania,66
+Ann,Li,SUA,98
+Kristina,Mladenovic,Franta,50
+Petra,Martic,Croatia,18
+Heather,Watson,Regatul Unit,58
+Alison,Riske,SUA,26
+Aryna,Sabalenka,Belarus,10
+Kateryna,Kozlova,Ucraina,106
+Bernarda,Pera,SUA,62
+Varvara,Gracheva,Rusia,94
+Irina,Begu,Romania,78
+Greetje,Minnen,Belgia,110
+Katerina,Siniakova,Cehia,59
+Lin,Zhu,China,91
+Katarina,Zavatska,Ucraina,118
+Caroline,Garcia,Franta,43
+Jasmine,Paolini,Italia,96
+Cori,Gauff,SUA,48
+Jil Belen,Teichmann,Elvetia,57
+Saisai,Zheng,China,41
+Kaia,Kanepi,Estonia,93
+Elise,Mertens,Belgia,20
+Shelby,Rogers,SUA,60
+Belinda,Bencic,Elvetia,12
+Sara,Sorribes Tormo,Spania,66
+Kristina,Mladenovic,Franta,50
+Heather,Watson,Regatul Unit,58
+Kateryna,Kozlova,Ucraina,106
+Varvara,Gracheva,Rusia,94
+Irina,Begu,Romania,78
+Katerina,Siniakova,Cehia,59
+Caroline,Garcia,Franta,43
+Jasmine,Paolini,Italia,96
+Jil Belen,Teichmann,Elvetia,57
+Elise,Mertens,Belgia,20
+Shelby,Rogers,SUA,60
+Sara,Sorribes Tormo,Spania,66
+Kateryna,Kozlova,Ucraina,106
+Varvara,Gracheva,Rusia,94
+Caroline,Garcia,Franta,43
+Jasmine,Paolini,Italia,96
+Shelby,Rogers,SUA,60
+Sara,Sorribes Tormo,Spania,66
+Varvara,Gracheva,Rusia,94
+Jasmine,Paolini,Italia,96
+Sara,Sorribes Tormo,Spania,66
+Sara,Sorribes Tormo,Spania,66
+Ashleigh,Barty,Australia,1
+Ashleigh,Barty,Australia,1
+Mayar,Sherif,Egipt,128
+Mayar,Sherif,Egipt,128
+Alison,Van Uytvanck,Belgia,64
+Alison,Van Uytvanck,Belgia,64
+Barbora,Krejcikova,Cehia,65
+Barbora,Krejcikova,Cehia,65
+Donna,Vekic,Croatia,32
+Donna,Vekic,Croatia,32
+Viktoria,Kuzmova,Slovacia,97
+Viktoria,Kuzmova,Slovacia,97
+Ekaterina,Alexandrova,Rusia,33
+Ekaterina,Alexandrova,Rusia,33
+Jasmine,Paolini,Italia,96
+Jasmine,Paolini,Italia,96
+Madison,Keys,SUA,16
+Madison,Keys,SUA,16
+Katarzyna,Kawa,Polonia,113
+Katarzyna,Kawa,Polonia,113
+Polona,Hercog,Slovenia,49
+Polona,Hercog,Slovenia,49
+Zarina,Diyas,Kazakhstan,80
+Zarina,Diyas,Kazakhstan,80
+Iga,Swiatek,Polonia,17
+Iga,Swiatek,Polonia,17
+Samantha,Stosur,Australia,112
+Samantha,Stosur,Australia,112
+Cori,Gauff,SUA,48
+Cori,Gauff,SUA,48
+Christina,McHale,SUA,81
+Christina,McHale,SUA,81
+Petra,Kvitova,Cehia,8
+Petra,Kvitova,Cehia,8
+Caty,McNally,SUA,121
+Caty,McNally,SUA,121
+Jil Belen,Teichmann,Elvetia,57
+Jil Belen,Teichmann,Elvetia,57
+Daria,Kasatkina,Rusia,72
+Daria,Kasatkina,Rusia,72
+Angelique,Kerber,Germania,25
+Angelique,Kerber,Germania,25
+Kaja,Juvan,Slovenia,104
+Kaja,Juvan,Slovenia,104
+Magda,Linette,Polonia,40
+Magda,Linette,Polonia,40
+Taylor,Townsend,SUA,89
+Taylor,Townsend,SUA,89
+Kiki,Bertens,Olanda,9
+Kiki,Bertens,Olanda,9
+Tereza,Martincova,Cehia,120
+Tereza,Martincova,Cehia,120
+Patricia Maria,Tig,Romania,56
+Patricia Maria,Tig,Romania,56
+Nao,Hibino,Japonia,73
+Nao,Hibino,Japonia,73
+Jennifer,Brady,SUA,24
+Jennifer,Brady,SUA,24
+Monica,Puig,Puerto Rico,105
+Monica,Puig,Puerto Rico,105
+Saisai,Zheng,China,41
+Saisai,Zheng,China,41
+Leylah Annie,Fernandez,Canada,88
+Leylah Annie,Fernandez,Canada,88
+Sofia,Kenin,SUA,4
+Sofia,Kenin,SUA,4
+Margarita,Gasparyan,Rusia,125
+Margarita,Gasparyan,Rusia,125
+Anna,Blinkova,Rusia,61
+Anna,Blinkova,Rusia,61
+Ajla,Tomljanovic,Australia,68
+Ajla,Tomljanovic,Australia,68
+Dayana,Yastremska,Ucraina,29
+Dayana,Yastremska,Ucraina,29
 Nina,Stojanovic,Serbia,100
+Nina,Stojanovic,Serbia,100
+Svetlana,Kuznetsova,Rusia,36
+Svetlana,Kuznetsova,Rusia,36
+Kaia,Kanepi,Estonia,93
+Kaia,Kanepi,Estonia,93
+Victoria,Azarenka,Belarus,13
+Victoria,Azarenka,Belarus,13
+Stefanie,Voegele,Elvetia,116
+Stefanie,Voegele,Elvetia,116
+Marie,Bouzkova,Cehia,52
+Marie,Bouzkova,Cehia,52
+Danka,Kovinic,Muntenegru,77
+Danka,Kovinic,Muntenegru,77
+Elise,Mertens,Belgia,20
+Elise,Mertens,Belgia,20
+Tatjana,Maria,Germania,109
+Tatjana,Maria,Germania,109
+Danielle Rose,Collins,SUA,45
+Danielle Rose,Collins,SUA,45
+Carla,Suarez Navarro,Spania,84
+Carla,Suarez Navarro,Spania,84
+Elina,Svitolina,Ucraina,5
+Elina,Svitolina,Ucraina,5
+Vitalia,Diatchenko,Rusia,124
+Vitalia,Diatchenko,Rusia,124
+Shelby,Rogers,SUA,60
+Shelby,Rogers,SUA,60
+Kristyna,Pliskova,Cehia,69
+Kristyna,Pliskova,Cehia,69
+Yulia,Putintseva,Kazakhstan,28
+Yulia,Putintseva,Kazakhstan,28
+Anastasia,Potapova,Rusia,101
+Anastasia,Potapova,Rusia,101
+Barbora,Strycova,Cehia,37
+Barbora,Strycova,Cehia,37
+Ana,Bogdan,Romania,92
+Ana,Bogdan,Romania,92
+Belinda,Bencic,Elvetia,12
+Belinda,Bencic,Elvetia,12
+Shuai,Peng,China,117
+Shuai,Peng,China,117
+Alize,Cornet,Franta,53
+Alize,Cornet,Franta,53
+Camila,Giorgi,Italia,76
+Camila,Giorgi,Italia,76
+Marketa,Vondrousova,Cehia,21
+Marketa,Vondrousova,Cehia,21
+Kristie,Ahn,SUA,108
+Kristie,Ahn,SUA,108
+Jelena,Ostapenko,Letonia,44
+Jelena,Ostapenko,Letonia,44
+Martina,Trevisan,Italia,85
+Martina,Trevisan,Italia,85
+Simona,Halep,Romania,2
+Simona,Halep,Romania,2
+Liudmila,Samsonova,Rusia,127
+Liudmila,Samsonova,Rusia,127
+Jessica,Pegula,SUA,63
+Jessica,Pegula,SUA,63
+Sara,Sorribes Tormo,Spania,66
+Sara,Sorribes Tormo,Spania,66
+Ons,Jabeur,Tunisia,31
+Ons,Jabeur,Tunisia,31
+Ann,Li,SUA,98
+Ann,Li,SUA,98
+Qiang,Wang,China,34
+Qiang,Wang,China,34
+Yafan,Wang,China,95
+Yafan,Wang,China,95
+Garbine,Muguruza,Spania,15
+Garbine,Muguruza,Spania,15
+Anna,Kalinskaya,Rusia,114
+Anna,Kalinskaya,Rusia,114
+Kristina,Mladenovic,Franta,50
+Kristina,Mladenovic,Franta,50
+Venus,Williams,SUA,79
+Venus,Williams,SUA,79
+Petra,Martic,Croatia,18
+Petra,Martic,Croatia,18
+Anna-Lena,Friedsam,Germania,111
+Anna-Lena,Friedsam,Germania,111
+Nadia,Podoroska,Argentina,47
+Nadia,Podoroska,Argentina,47
+Madison,Brengle,SUA,82
+Madison,Brengle,SUA,82
+Bianca Vanessa,Andreescu,Canada,7
+Bianca Vanessa,Andreescu,Canada,7
+Ysaline,Bonaventure,Belgia,122
+Ysaline,Bonaventure,Belgia,122
+Heather,Watson,Regatul Unit,58
+Heather,Watson,Regatul Unit,58
+Sorana-Mihaela,Cirstea,Romania,71
+Sorana-Mihaela,Cirstea,Romania,71
+Alison,Riske,SUA,26
+Alison,Riske,SUA,26
+Aliona,Bolsova Zadoinov,Spania,103
+Aliona,Bolsova Zadoinov,Spania,103
+Sloane,Stephens,SUA,39
+Sloane,Stephens,SUA,39
+Aliaksandra,Sasnovich,Belarus,90
+Aliaksandra,Sasnovich,Belarus,90
+Aryna,Sabalenka,Belarus,10
+Aryna,Sabalenka,Belarus,10
+Irina Maria,Bara,Romania,119
+Irina Maria,Bara,Romania,119
+Rebecca,Peterson,Suedia,55
+Rebecca,Peterson,Suedia,55
+Arantxa,Rus,Olanda,74
+Arantxa,Rus,Olanda,74
+Anett,Kontaveit,Estonia,23
+Anett,Kontaveit,Estonia,23
+Kateryna,Kozlova,Ucraina,106
+Kateryna,Kozlova,Ucraina,106
+Fiona,Ferro,Franta,42
+Fiona,Ferro,Franta,42
+Tamara,Zidansek,Slovenia,87
+Tamara,Zidansek,Slovenia,87
+Naomi,Osaka,Japonia,3
+Naomi,Osaka,Japonia,3
+Tamara,Korpatsch,Germania,126
+Tamara,Korpatsch,Germania,126
+Bernarda,Pera,SUA,62
+Bernarda,Pera,SUA,62
+Su-Wei,Hsieh,Taiwan,67
+Su-Wei,Hsieh,Taiwan,67
+Amanda,Anisimova,SUA,30
+Amanda,Anisimova,SUA,30
+Marta,Kostyuk,Ucraina,99
+Marta,Kostyuk,Ucraina,99
+Shuai,Zhang,China,35
+Shuai,Zhang,China,35
+Varvara,Gracheva,Rusia,94
+Varvara,Gracheva,Rusia,94
+Johanna,Konta,Regatul Unit,14
+Johanna,Konta,Regatul Unit,14
+Timea,Babos,Ungaria,115
+Timea,Babos,Ungaria,115
+Laura,Siegemund,Germania,51
+Laura,Siegemund,Germania,51
+Irina,Begu,Romania,78
+Irina,Begu,Romania,78
+Elena,Rybakina,Kazakhstan,19
+Elena,Rybakina,Kazakhstan,19
+Greetje,Minnen,Belgia,110
+Greetje,Minnen,Belgia,110
+Veronika,Kudermetova,Rusia,46
+Veronika,Kudermetova,Rusia,46
+Misaki,Doi,Japonia,83
+Misaki,Doi,Japonia,83
+Karolina,Pliskova,Cehia,6
+Karolina,Pliskova,Cehia,6
+Xiyu,Wang,China,123
+Xiyu,Wang,China,123
+Katerina,Siniakova,Cehia,59
+Katerina,Siniakova,Cehia,59
+Paula,Badosa Gibert,Spania,70
+Paula,Badosa Gibert,Spania,70
+Karolina,Muchova,Cehia,27
+Karolina,Muchova,Cehia,27
+Andrea,Petkovic,Germania,102
+Andrea,Petkovic,Germania,102
+Anastasia,Pavlyuchenkova,Rusia,38
+Anastasia,Pavlyuchenkova,Rusia,38
+Lin,Zhu,China,91
+Lin,Zhu,China,91
+Serena,Williams,SUA,11
+Serena,Williams,SUA,11
+Katarina,Zavatska,Ucraina,118
+Katarina,Zavatska,Ucraina,118
+Anastasija,Sevastova,Letonia,54
+Anastasija,Sevastova,Letonia,54
+Lauren,Davis,SUA,75
+Lauren,Davis,SUA,75
+Maria,Sakkari,Grecia,22
+Maria,Sakkari,Grecia,22
+Oceane,Dodin,Franta,107
+Oceane,Dodin,Franta,107
+Caroline,Garcia,Franta,43
+Caroline,Garcia,Franta,43
+Kirsten,Flipkens,Belgia,86
+Kirsten,Flipkens,Belgia,86
+Mayar,Sherif,Egipt,128
+Alison,Van Uytvanck,Belgia,64
+Donna,Vekic,Croatia,32
+Jasmine,Paolini,Italia,96
+Madison,Keys,SUA,16
+Zarina,Diyas,Kazakhstan,80
+Iga,Swiatek,Polonia,17
+Christina,McHale,SUA,81
+Caty,McNally,SUA,121
+Jil Belen,Teichmann,Elvetia,57
+Angelique,Kerber,Germania,25
+Magda,Linette,Polonia,40
+Kiki,Bertens,Olanda,9
+Nao,Hibino,Japonia,73
+Monica,Puig,Puerto Rico,105
+Leylah Annie,Fernandez,Canada,88
+Sofia,Kenin,SUA,4
+Ajla,Tomljanovic,Australia,68
+Dayana,Yastremska,Ucraina,29
 Kaia,Kanepi,Estonia,93
 Stefanie,Voegele,Elvetia,116
 Danka,Kovinic,Muntenegru,77
@@ -154,103 +537,103 @@ Carla,Suarez Navarro,Spania,84
 Vitalia,Diatchenko,Rusia,124
 Shelby,Rogers,SUA,60
 Anastasia,Potapova,Rusia,101
-Barbora,Strycova,Cehia,37
+Ana,Bogdan,Romania,92
 Shuai,Peng,China,117
-Alize,Cornet,Franta,53
+Camila,Giorgi,Italia,76
 Marketa,Vondrousova,Cehia,21
 Jelena,Ostapenko,Letonia,44
 Simona,Halep,Romania,2
-Sara,Sorribes Tormo,Spania,66
-Ons,Jabeur,Tunisia,31
-Qiang,Wang,China,34
-Garbine,Muguruza,Spania,15
+Jessica,Pegula,SUA,63
+Ann,Li,SUA,98
+Yafan,Wang,China,95
+Anna,Kalinskaya,Rusia,114
 Venus,Williams,SUA,79
-Anna-Lena,Friedsam,Germania,111
+Petra,Martic,Croatia,18
 Nadia,Podoroska,Argentina,47
 Ysaline,Bonaventure,Belgia,122
-Sorana-Mihaela,Cirstea,Romania,71
+Heather,Watson,Regatul Unit,58
 Aliona,Bolsova Zadoinov,Spania,103
-Aliaksandra,Sasnovich,Belarus,90
+Sloane,Stephens,SUA,39
 Irina Maria,Bara,Romania,119
 Rebecca,Peterson,Suedia,55
-Anett,Kontaveit,Estonia,23
+Kateryna,Kozlova,Ucraina,106
 Fiona,Ferro,Franta,42
 Tamara,Korpatsch,Germania,126
-Su-Wei,Hsieh,Taiwan,67
-Marta,Kostyuk,Ucraina,99
+Bernarda,Pera,SUA,62
+Amanda,Anisimova,SUA,30
 Shuai,Zhang,China,35
 Johanna,Konta,Regatul Unit,14
 Irina,Begu,Romania,78
-Elena,Rybakina,Kazakhstan,19
+Greetje,Minnen,Belgia,110
 Misaki,Doi,Japonia,83
-Karolina,Pliskova,Cehia,6
-Paula,Badosa Gibert,Spania,70
+Xiyu,Wang,China,123
+Katerina,Siniakova,Cehia,59
 Andrea,Petkovic,Germania,102
 Anastasia,Pavlyuchenkova,Rusia,38
-Katarina,Zavatska,Ucraina,118
-Anastasija,Sevastova,Letonia,54
+Serena,Williams,SUA,11
+Lauren,Davis,SUA,75
 Maria,Sakkari,Grecia,22
 Caroline,Garcia,Franta,43
-Barbora,Krejcikova,Cehia,65
-Ekaterina,Alexandrova,Rusia,33
-Madison,Keys,SUA,16
+Alison,Van Uytvanck,Belgia,64
+Jasmine,Paolini,Italia,96
+Zarina,Diyas,Kazakhstan,80
 Iga,Swiatek,Polonia,17
 Jil Belen,Teichmann,Elvetia,57
 Angelique,Kerber,Germania,25
 Kiki,Bertens,Olanda,9
-Jennifer,Brady,SUA,24
+Leylah Annie,Fernandez,Canada,88
 Sofia,Kenin,SUA,4
 Kaia,Kanepi,Estonia,93
 Stefanie,Voegele,Elvetia,116
 Carla,Suarez Navarro,Spania,84
-Vitalia,Diatchenko,Rusia,124
-Barbora,Strycova,Cehia,37
-Alize,Cornet,Franta,53
-Marketa,Vondrousova,Cehia,21
-Simona,Halep,Romania,2
-Ons,Jabeur,Tunisia,31
-Garbine,Muguruza,Spania,15
-Nadia,Podoroska,Argentina,47
+Shelby,Rogers,SUA,60
+Ana,Bogdan,Romania,92
+Camila,Giorgi,Italia,76
+Jelena,Ostapenko,Letonia,44
+Jessica,Pegula,SUA,63
+Yafan,Wang,China,95
+Venus,Williams,SUA,79
+Petra,Martic,Croatia,18
 Ysaline,Bonaventure,Belgia,122
 Aliona,Bolsova Zadoinov,Spania,103
 Rebecca,Peterson,Suedia,55
-Anett,Kontaveit,Estonia,23
+Fiona,Ferro,Franta,42
 Tamara,Korpatsch,Germania,126
-Marta,Kostyuk,Ucraina,99
-Johanna,Konta,Regatul Unit,14
-Elena,Rybakina,Kazakhstan,19
-Paula,Badosa Gibert,Spania,70
+Amanda,Anisimova,SUA,30
+Irina,Begu,Romania,78
+Misaki,Doi,Japonia,83
+Xiyu,Wang,China,123
 Anastasia,Pavlyuchenkova,Rusia,38
-Anastasija,Sevastova,Letonia,54
-Caroline,Garcia,Franta,43
-Ekaterina,Alexandrova,Rusia,33
-Madison,Keys,SUA,16
+Lauren,Davis,SUA,75
+Maria,Sakkari,Grecia,22
+Alison,Van Uytvanck,Belgia,64
+Iga,Swiatek,Polonia,17
 Angelique,Kerber,Germania,25
-Kiki,Bertens,Olanda,9
+Leylah Annie,Fernandez,Canada,88
 Kaia,Kanepi,Estonia,93
 Carla,Suarez Navarro,Spania,84
-Barbora,Strycova,Cehia,37
-Alize,Cornet,Franta,53
-Simona,Halep,Romania,2
-Garbine,Muguruza,Spania,15
-Ysaline,Bonaventure,Belgia,122
-Anett,Kontaveit,Estonia,23
-Tamara,Korpatsch,Germania,126
-Elena,Rybakina,Kazakhstan,19
-Paula,Badosa Gibert,Spania,70
-Anastasija,Sevastova,Letonia,54
-Madison,Keys,SUA,16
-Kiki,Bertens,Olanda,9
+Shelby,Rogers,SUA,60
+Jelena,Ostapenko,Letonia,44
+Jessica,Pegula,SUA,63
+Petra,Martic,Croatia,18
+Aliona,Bolsova Zadoinov,Spania,103
+Fiona,Ferro,Franta,42
+Amanda,Anisimova,SUA,30
+Misaki,Doi,Japonia,83
+Xiyu,Wang,China,123
+Lauren,Davis,SUA,75
+Iga,Swiatek,Polonia,17
+Leylah Annie,Fernandez,Canada,88
 Kaia,Kanepi,Estonia,93
-Barbora,Strycova,Cehia,37
-Garbine,Muguruza,Spania,15
-Anett,Kontaveit,Estonia,23
-Elena,Rybakina,Kazakhstan,19
-Paula,Badosa Gibert,Spania,70
-Madison,Keys,SUA,16
-Kaia,Kanepi,Estonia,93
-Anett,Kontaveit,Estonia,23
-Elena,Rybakina,Kazakhstan,19
-Madison,Keys,SUA,16
-Anett,Kontaveit,Estonia,23
-Anett,Kontaveit,Estonia,23
+Jelena,Ostapenko,Letonia,44
+Jessica,Pegula,SUA,63
+Fiona,Ferro,Franta,42
+Misaki,Doi,Japonia,83
+Lauren,Davis,SUA,75
+Leylah Annie,Fernandez,Canada,88
+Jelena,Ostapenko,Letonia,44
+Jessica,Pegula,SUA,63
+Lauren,Davis,SUA,75
+Jelena,Ostapenko,Letonia,44
+Lauren,Davis,SUA,75
+Lauren,Davis,SUA,75

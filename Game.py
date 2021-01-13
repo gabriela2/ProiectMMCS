@@ -23,6 +23,16 @@ class Game:
             return 30
         elif number == 3:
             return 40
+        elif number == 4:
+            return 45
+
+    @staticmethod
+    def transformPointAdv(number):
+        if number == 0:
+            return 40
+        elif number == 1:
+            return 'A'
+
 
     def returnGameWinner(self):
 
@@ -38,23 +48,22 @@ class Game:
                     self.returnerPoints += 1
                     return False
 
-            elif self.serverPoints < 3 and self.returnerPoints < 3:
+            elif self.serverPoints < 4 and self.returnerPoints < 4:
                 self.Point()
 
-            elif self.serverPoints == 3 and self.returnerPoints < 3:
+            elif self.serverPoints == 4 and self.returnerPoints < 4:
                 self.finalPoint = True
                 return True
-            elif self.returnerPoints == 3 and self.serverPoints < 3:
+            elif self.returnerPoints == 4 and self.serverPoints < 4:
                 self.finalPoint = True
                 return False
 
-    @staticmethod
-    def playAdvantage():
+    def playAdvantage(self):
         pointsServer = 0
         pointsReturner = 0
+        print("\nPlay Advantage")
         while True:
-            print("Play Advantage\n")
-            print("s adv: ", pointsServer, " - r adv: ", pointsReturner)
+            print("s adv: ",  self.transformPointAdv(pointsServer), " - r adv: ", self.transformPointAdv(pointsReturner) )
             serverProbability = random()
             returnerProbability = random()
 
@@ -66,7 +75,6 @@ class Game:
             elif pointsServer != 0 and pointsReturner == 0:
                 if serverProbability > returnerProbability:
                     pointsServer += 1
-                    print("s adv: ", pointsServer, " - r adv: ", pointsReturner)
                     return True
                 elif returnerProbability > serverProbability:
                     pointsReturner = 0
@@ -74,7 +82,6 @@ class Game:
             elif pointsReturner != 0 and pointsServer == 0:
                 if returnerProbability > serverProbability:
                     pointsReturner += 1
-                    print("s adv: ", pointsServer, " - r adv: ", pointsReturner)
                     return False
                 elif serverProbability > returnerProbability:
                     pointsReturner = 0
