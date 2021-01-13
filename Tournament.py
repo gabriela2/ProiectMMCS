@@ -13,6 +13,7 @@ class Tournament:
     listWinnersSecondPart2 = []
     numberOfPlayers = 128
     listMatches = []
+    winnerOfTheTournament = None
 
     @staticmethod
     def seed(n):
@@ -126,6 +127,7 @@ class Tournament:
                 else:
                     winner = Match(0, 2, 0, 0).playMatch(self.listWinnersFirstPart[0], self.listWinnersSecondPart[0])
                     self.finalListWinners.append(winner)
+                    self.winnerOfTheTournament = winner
 
                     print("Castigatorul turneului dintre:" + self.listWinnersFirstPart[0].firstName + " "
                           + self.listWinnersFirstPart[0].lastName + " si " + self.listWinnersSecondPart[0].firstName + " "
@@ -144,3 +146,5 @@ class Tournament:
         self.splitPlayers()
         self.getWinner()
         self.writeCSV()
+        return self.winnerOfTheTournament.firstName + " " + self.winnerOfTheTournament.lastName
+

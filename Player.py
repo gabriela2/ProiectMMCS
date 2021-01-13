@@ -1,5 +1,5 @@
 class Player:
-
+    nrTurneeCatigate = 0
     def __init__(self, firstName, lastName, country, rank):
         self.firstName = firstName
         self.lastName = lastName
